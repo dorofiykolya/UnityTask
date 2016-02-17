@@ -1,0 +1,46 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Temp.meta
+Obj/
+Obj.meta
+UnityGenerated/
+UnityGenerated.meta
+Library/
+Library.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+#*.csproj
+*.pidb
+*.suo
+#*.sln
+*.user
+*.unityproj
+*.booproj
+.vs
+*.meta
+*.csproj.DotSettings
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Commont Library files excluded from project VCS
+# because it stored in own repo.
+debug-glsl-error-in-d3dcompile-orig.txt
+AdjustPostBuildAndroidLog.txt
+debug-glsl-error-in-d3dcompile.txt
+debug-glsl-error-in-preprocessor.txt
